@@ -1,0 +1,644 @@
+@media(max-width:1599px) {
+  .vacancy-form button.width-100 {
+    height: 60px;
+    font-size: 20px;
+  }
+
+  .fileUpload span {
+    text-align: center;
+  }
+
+  .benefits-right:after {
+    right: -210px;
+  }
+
+  .hero-img-one {
+    height: 450px;
+    width: 450px;
+  }
+
+  .hero-group {
+    max-width: 450px;
+  }
+
+  .logo img,
+  .footer-left img {
+    width: 150px;
+  }
+
+  .in-touch p a {
+    margin-bottom: 0;
+    font-size: 16px;
+  }
+
+  .in-touch p {
+    margin-bottom: 5px;
+  }
+
+  .social li {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+  }
+
+  .social li img {
+    height: 17px;
+  }
+
+  .sec-question-right p {
+    font-size: 17px;
+  }
+
+  .what-we-do-icon {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+  }
+
+  .what-we-do-icon img {
+    height: 40px;
+  }
+}
+
+@media(max-width:1399px) {
+  .testimonials {
+    padding: 80px 0;
+  }
+
+  .btn-border {
+    padding: 10px 20px;
+    min-width: 168px;
+  }
+
+  .logo img {
+    width: 150px;
+  }
+
+  .what-we-do-up {
+    margin: -30px auto 0;
+    padding: 50px 0;
+  }
+
+  .hero-img-one {
+    height: 380px;
+    width: 380px;
+  }
+
+  .hero-group-left .shape-00 {
+    width: 180px;
+    height: 180px;
+  }
+
+  .hero-group-left h1 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+
+  header {
+    padding-top: 30px;
+  }
+
+  .hero-img-two {
+    width: 177px;
+    height: 177px;
+  }
+
+  .shape-02 {
+    width: 133px;
+    height: 133px;
+  }
+
+  .input,
+  .select,
+  .textarea {
+    height: 45px;
+  }
+
+  .textarea {
+    min-height: 95px;
+  }
+
+  .container-checkbox .checkmark {
+    height: 25px;
+    width: 25px;
+  }
+
+
+  .vacancy-form button {
+    height: 50px;
+    font-size: 18px;
+  }
+
+  .sec-grow-your-team h4,
+  .sec-next-opportunity h4,
+  .what-we-do-up h3,
+  .what-we-do-text h4,
+  .swiper-box h4,
+  .benefits-left h3,
+  .benefits-left h4,
+  .sec-question-right h4 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .btn {
+    min-width: 162px;
+    padding: 6px 18px;
+    font-size: 14px;
+  }
+
+  .sec-hero .btn {
+    padding: 10px 20px;
+    min-width: 168px;
+  }
+
+  .sec-hero p {
+    margin: 20px 0 20px;
+    font-size: 16px;
+    line-height: 27px;
+    max-width: 100%;
+  }
+
+  .what-we-do-up h3 {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .what-we-do-icon {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+  }
+
+  .what-we-do-icon img {
+    width: 35px;
+  }
+
+  .sec-grow-your-team h2,
+  .sec-next-opportunity h2 {
+    font-size: 30px;
+    line-height: 42px;
+  }
+
+  .btn-border {
+    padding: 10px 20px;
+    min-width: 168px;
+  }
+
+  .swiper-box p {
+    font-size: 16px;
+    line-height: 32px;
+  }
+
+  .swiper-box span {
+    font-size: 15px;
+  }
+
+  .list-groups li {
+    font-size: 16px;
+    padding-bottom: 10px;
+    line-height: 26px;
+  }
+
+  .modal-lg,
+  .modal-xl {
+    max-width: 600px;
+  }
+
+  .swiper-button-prev,
+  .swiper-container-rtl .swiper-button-next {
+    left: -20px;
+  }
+
+  .swiper-button-next,
+  .swiper-container-rtl .swiper-button-prev {
+    right: -20px;
+  }
+
+  .logo img {
+    max-width: 110px;
+  }
+
+  .footer-left img {
+    max-width: 110px;
+  }
+}
+
+@media(max-width:1199px) {
+  header.sticky {
+    padding: 10px 0;
+  }
+
+  .footer {
+    padding: 60px 0;
+  }
+
+  .sec-question-right {
+    padding: 80px 30px;
+  }
+
+  .hero-img-one {
+    height: 300px;
+    width: 300px;
+  }
+
+  .hero-group-right:after {
+    width: 556px;
+  }
+
+  .grow-your-team-group-left .grow-your-team-img {
+    width: 182px;
+    height: 182px;
+  }
+
+  .grow-your-team-group-right .grow-your-team-img {
+    width: 149px;
+    height: 149px;
+  }
+
+  .benefits-right .hero-img-one {
+    height: 240px;
+    width: 240px;
+    margin: 0 auto;
+  }
+
+  .benefits-group .shape-07 {
+    width: 204px;
+    height: 204px;
+  }
+
+  .sec-question-right h3 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+
+  .sec-question-right p {
+    color: #7A7C7F;
+    font-size: 18px;
+  }
+
+  .btn-border {
+    min-width: 186px;
+    padding: 10px 30px;
+  }
+
+  .shape-09 {
+    width: 138px;
+    height: 138px;
+    bottom: 60px;
+  }
+
+  .shape-10 {
+    top: 74px;
+    width: 53px;
+    height: 53px;
+  }
+
+}
+
+@media (max-width:1023px) {
+  .hero-img-one {
+    height: 275px;
+    width: 275px;
+    margin-left: auto;
+  }
+
+  .grow-your-team-group-left .shape-04 {
+    width: 126px;
+    height: 126px;
+  }
+
+  .hero-group {
+    max-width: 275px;
+  }
+
+  .grow-your-team-group-left .shape-05 {
+    bottom: -10px;
+    right: 30px;
+    z-index: 1;
+    width: 60px;
+    height: 60px;
+  }
+
+  .grow-your-team-group-right {
+    max-width: 149px;
+  }
+
+  .grow-your-team-group-right .shape-04 {
+    width: 50px;
+    height: 50px;
+  }
+
+  .grow-your-team-group-right .shape-05 {
+    width: 83px;
+    height: 83px;
+    bottom: -90px;
+    left: -50px;
+  }
+
+  .shape-02 {
+    width: 100px;
+    height: 100px;
+    bottom: -40px;
+    left: 100px;
+  }
+
+  .hero-img-two {
+    width: 130px;
+    height: 130px;
+    left: 15px;
+  }
+
+  .hero-group .shape-01 {
+    position: absolute;
+    top: 10px;
+    right: -10px;
+    height: 83px;
+    width: 83px;
+  }
+
+  .sec-hero .container {
+    padding: 0 5%;
+  }
+
+  .what-we-do-down {
+    padding-bottom: 80px;
+  }
+
+  .sec-hero .row {
+    min-height: auto;
+    padding: 100px 0;
+  }
+
+  .benefits-right:after {
+    background: url(../img/line-5.svg) no-repeat center center / 400px;
+    height: 140%;
+  }
+
+  .benefits-group .shape-07 {
+    width: 144px;
+    height: 144px;
+  }
+
+  .sec-next-opportunity {
+    padding: 50px 0;
+  }
+
+  .shape-11 {
+    right: -75px;
+    width: 111px;
+    height: 111px;
+  }
+
+  .sec-next-opportunity-right {
+    max-width: 159px;
+  }
+
+  .sec-next-opportunity-right .grow-your-team-img {
+    bottom: -80px;
+  }
+}
+
+@media(max-width:991px) {
+  .sec-benefits .row>div+div {
+    -webkit-box-ordinal-group: 0;
+    -ms-flex-order: -1;
+    order: -1;
+  }
+
+
+
+  .in-touch>p {
+    margin-bottom: 0;
+  }
+
+  .social {
+    padding-top: 30px;
+  }
+}
+
+@media(max-width:767px) {
+
+  .container,
+  .container-fluid,
+  .container-sm,
+  .container-md,
+  .container-lg,
+  .container-xl,
+  .container-xxl {
+    padding-right: 35px;
+    padding-left: 35px;
+  }
+
+  .hero-group-left {
+    padding: 0 15px;
+  }
+
+  .hero-group {
+    max-width: 320px;
+    margin: 0 auto;
+  }
+
+
+
+  .sec-next-opportunity-left,
+  .cta-button,
+  .hero-group-left:after,
+  .hero-group-left .shape-00,
+  .grow-your-team-group-right,
+  .sec-benefits:before,
+  .mob-none,
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none;
+  }
+
+  .hero-group-right {
+    padding-top: 60px;
+    position: relative;
+  }
+
+  .hero-img-one {
+    margin: auto;
+  }
+
+  .hero-group .shape-01 {
+    right: 10%;
+  }
+
+  .what-we-do-up {
+    padding: 70px 20px;
+    margin: -40px auto 0;
+  }
+
+  .grow-your-team-group-left {
+    margin: 0 auto;
+  }
+
+  .grow-your-team-group-left .grow-your-team-img {
+    margin: 0 auto;
+  }
+
+  .sec-grow-your-team h2 {
+    padding-top: 50px;
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+  .grow-your-team-group-left .shape-05 {
+    bottom: 50px;
+    right: -22%;
+  }
+
+  .sec-grow-your-team {
+    padding: 80px 0;
+  }
+
+  .sec-benefits .row>div+div {
+    -webkit-box-ordinal-group: 11;
+    -ms-flex-order: 10;
+    order: 10;
+  }
+
+  .sec-grow-your-team h4 {
+    margin: 30px auto 50px;
+  }
+
+  .sec-grow-your-team h4 {
+    max-width: 250px;
+  }
+
+  .sec-grow-your-team:after {
+    width: 178.2px;
+  }
+
+  .hero-group-right:after {
+    background: url(../img/line-1.svg) no-repeat right center / 170px;
+    width: 350px;
+    right: -60px;
+    -webkit-transform: rotate(21deg);
+    -ms-transform: rotate(21deg);
+    transform: rotate(21deg);
+    height: 130%;
+  }
+
+  .sec-hero .row {
+    padding: 100px 0 130px;
+  }
+
+  .benefits-right {
+    position: relative;
+    padding-bottom: 120px;
+  }
+
+  .sec-benefits .row,
+  .sec-next-opportunity .row {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+  }
+
+  .sec-next-opportunity-right {
+    margin: auto;
+  }
+
+  .sec-next-opportunity-right .grow-your-team-img {
+    position: initial;
+    padding-bottom: 60px;
+  }
+
+  .shape-10 {
+    top: -66px;
+    left: -40px;
+  }
+
+  .shape-11 {
+    top: -10px;
+    width: 130px;
+    height: 130px;
+    right: -45px;
+  }
+
+  .benefits-group .shape-06 {
+    top: 30px;
+    left: 0;
+    z-index: -1;
+    height: 70px;
+    width: 70px;
+  }
+
+  .benefits-group .shape-07 {
+    width: 144px;
+    height: 144px;
+    bottom: -54px;
+  }
+
+  .benefits-right:after {
+    background: url(../img/line-6.svg) no-repeat center center / cover;
+    width: 410px;
+    z-index: 0;
+  }
+
+  .footer-left {
+    padding-bottom: 70px;
+  }
+
+  .modal-body {
+    padding: 0 20px 60px;
+  }
+
+  .modal-title {
+    font-size: 34px;
+  }
+
+  .swiper-box {
+    padding: 66px 25px;
+  }
+
+  .sec-question-right h4 {
+    font-size: 17px;
+    line-height: 30px;
+    letter-spacing: 0;
+  }
+
+  .what-we-do-box {
+    margin-top: 50px;
+  }
+
+  .benefits-left h3 {
+    font-size: 18px;
+  }
+
+  .sec-grow-your-team h2,
+  .sec-next-opportunity h2 {
+    font-size: 30px;
+    line-height: 42px;
+    max-width: 80%;
+    margin: 0 auto;
+  }
+
+  .modal.show .modal-dialog {
+    -webkit-transform: none;
+    -ms-transform: none;
+    transform: none;
+    margin: 0;
+  }
+
+  .container-checkbox input:checked~.checkmark:after {
+    display: block;
+  }
+
+  .container-checkbox .checkmark:after {
+    background: url(../img/check.svg) no-repeat center center / 15px;
+    content: "";
+    height: 25px;
+    width: 25px;
+  }
+
+  .vacancy-form button.width-100 {
+    font-size: 18px;
+    padding: 10px 20px;
+    height: 50px;
+  }
+}
