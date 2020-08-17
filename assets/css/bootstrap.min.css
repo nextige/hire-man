@@ -678,7 +678,19 @@ progress {
     }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 1568px) {
+
+    .container,
+    .container-sm,
+    .container-md,
+    .container-lg,
+    .container-xl,
+    .container-xxl {
+        max-width: 1200px;
+    }
+}
+
+@media (min-width: 1566px) {
 
     .container,
     .container-sm,
