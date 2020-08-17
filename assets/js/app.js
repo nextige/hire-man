@@ -12,7 +12,6 @@ let swiper2 = new Swiper('.testimonials-wrapper', {
     },
 });
 
-// Sticky Header
 // sticky header
 $(window).scroll(function () {
     var st = $(this).scrollTop();
@@ -45,7 +44,7 @@ $(".btn-groups a+a").bind("click", function (e) {
 });
 
 
-// Loader
+// loader
 $(window).on('load', function () {
     $(".loader").fadeOut(1500);
 });
