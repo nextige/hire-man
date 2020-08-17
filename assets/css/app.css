@@ -34,6 +34,10 @@ header.sticky {
     z-index: 99999;
 }
 
+.logo img {
+    width: 180px;
+}
+
 .modal-open header.sticky {
     z-index: 9;
 }
