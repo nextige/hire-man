@@ -509,6 +509,7 @@ header.sticky {
 .sec-next-opportunity-right .grow-your-team-img {
     position: absolute;
     bottom: -130px;
+    z-index: 1;
 }
 
 .shape-11 {
@@ -859,4 +860,29 @@ input[type="file"] {
 .enquiries-sec h4 a,
 .contact-info h4 a {
     color: #005FAA;
+}
+
+.parallax-wrapper {
+    position: relative;
+    overflow: hidden;
+    will-change: content;
+    height: 500px;
+}
+
+.parallax-wrapper .parallax {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    top: -50vh;
+    left: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transform-style: preserve-3d;
+    background-position: 50% 50%;
+    z-index: 0;
+    -webkit-transform: translate3d(0px, 0, 0px);
+    -moz-transform: translate3d(0px, 0, 0px);
+    -ms-transform: translate3d(0px, 0, 0px);
+    -o-transform: translate3d(0px, 0, 0px);
+    transform: translate3d(0px, 0, 0px);
 }
